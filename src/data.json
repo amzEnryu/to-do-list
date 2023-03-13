@@ -1,0 +1,24 @@
+{
+    "user":{
+        "username": "tudo",
+        "passwpord":"tudo",
+        "list":[]
+    },
+    "guest":{
+        "list":[
+            {
+                "title":  "You dont have account? Let sign up",
+                "completed": false
+            },
+            {
+                "title": "Login to see unfinished work",
+                "completed": false
+            },
+            {
+                "title": "Let's start",
+                "completed": false
+            }
+        ]
+    }
+
+}
